@@ -1,5 +1,7 @@
 # TUMProductivityScripts
-This is a collection of useful javascript files for TUM student. They can be used in your browser to automate tasks and save many unnecessary clicks.
+A collection of useful javascript files for TUM student (and employees). 
+
+They can be used in your browser to automate tasks and save many unnecessary clicks.
 
 Feel free to create a PR and add your own scripts to this library for others to see!
 
