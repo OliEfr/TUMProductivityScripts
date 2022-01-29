@@ -5,6 +5,7 @@
 // @description  automatically fills in your personal data on the library reservation website
 // @author       Oliver Hausdörfer
 // @match        https://www.ub.tum.de/reserve/*
+// @include      https://www.ub.tum.de/en/reserve/*
 // @icon         https://www.google.com/s2/favicons?domain=tum.de
 // @grant        none
 // ==/UserScript==
